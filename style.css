@@ -1,0 +1,15 @@
+#Tabdiv {
+  color: red;
+  border: 1px solid black;
+}
+ul {
+  list-style: none;
+
+}
+.Uppgift-B {
+  height: 300px;
+}
+.mainView {
+  background: lightblue;
+  height: 100px;
+}
